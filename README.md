@@ -12,7 +12,6 @@ Let's say we need to store something in variable a, but there are checks. Here's
 
 
 (hopefully bypassing checks, as i did in IHVM-klm, which may be published later.
-
 if so, link: (NOT RELEASED, yet))
 
 
